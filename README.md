@@ -55,13 +55,9 @@ Need Help? Don't hesitate to reach out -
 2. Verify that it is empty by printing the `Count` property of the list out to the console.
 
 ## Task 7
-Answer the following TWO questions by typing your answers right here in `README.md`.
+Answer the following question by typing your answers right here in `README.md`.
 
-1. What is the purpose of the `using` directive?
-
-    Replace this text with your response.
-
-2. What is the difference between a `for` loop and a `foreach` loop?
+1. What is the difference between a `for` loop and a `foreach` loop?
 
     Replace this text with your response.
 
