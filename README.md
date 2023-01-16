@@ -66,4 +66,4 @@ Answer the following question by typing your answers right here in `README.md`.
 2. Edit `README.md` and put your name at the top.
 3. Push your changes to GitHub by following the instructions in Task 4.
 4. Verify that your changes are on GitHub.
-6. Congratulations! You just completed your first CIDM 3312 assignment. I hope this helped you refresh your C# skills with Lists and Methods, as well as introduce you to GitHub. 
+6. Congratulations! You just completed your first CIDM 3312 assignment. I hope this helped you refresh your C# skills with Lists as well as introduce you to GitHub. 
