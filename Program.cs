@@ -5,13 +5,18 @@ Console.WriteLine("Hello, World!");
 // Read README.md for instructions. IN VS Code, press Ctrl+Shift+V or Cmd+Shift+V to preview the README.md file
 
 // Task 1: Create a new, empty list of strings here.
-
+List<string> list1 = new List<string>();
 
 // Task 2: Add 3 strings to your list - their values can be anything.
-
+list1.Add("first");
+list1.Add("second");
+list1.Add("third");
 
 // Task 3: Iterate or loop through your list with a foreach loop printing each element to the console.
-
+foreach (string i in list1)
+{
+    Console.WriteLine(i);
+}
 
 // Task 4: Save and run your program with dotnet run.
 // Push your changes to github.

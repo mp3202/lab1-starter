@@ -1,4 +1,4 @@
-## Your Name: 
+## Mia Popovic
 
 
 # CIDM 3312 Lab 1: Review of Lists
