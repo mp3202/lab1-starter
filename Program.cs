@@ -26,10 +26,26 @@ foreach (string i in list1)
 // Display a message to the console stating that the specific string was removed from the list 
 // or it was not removed from the list.
 // Test this code with a string that exists in your list and a string that does not exist in your list.
+if (list1.Contains("second")) {
+    list1.Remove("second");
+    Console.WriteLine("You have a 'second' entry. This entry has been removed.");
 
+    } else {
+    Console.WriteLine("You don't have a 'second' element, so nothing will be removed.");
+}
+
+if (list1.Contains("fourth")) {
+    Console.WriteLine("You have a 'fourth' entry");
+    list1.Remove("fourth");
+    Console.WriteLine("This entry has been removed.");
+
+    } else {
+    Console.WriteLine("You don't have a 'fourth' element, so nothing will be removed.");
+}
 
 // Task 6: Clear the list and verify that it is cleared by printing out its Count to the console
-
+list1.Clear();
+Console.WriteLine($"list1 has {list1.Count()} elements");
 
 // Task 7: Save and run your program. Answer the questions in README.md. You can modify README.md directly
 // from inside VS Code. Put your name at the top of the README.md file
