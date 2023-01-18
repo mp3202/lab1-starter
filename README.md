@@ -59,7 +59,9 @@ Answer the following question by typing your answers right here in `README.md`.
 
 1. What is the difference between a `for` loop and a `foreach` loop?
 
-    Replace this text with your response.
+    A foreach loop will be executed for each element and will read the contents of a list, but cannot modify the list. 
+    
+    A for loop will be executed with certain conditions such as for an x amount of times, and you have more control over what you do with each element in a list for example.
 
 ## Task 8
 1. Save your program and run it. At the terminal prompt, type `dotnet run`.
